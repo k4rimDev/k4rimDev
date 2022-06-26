@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-                                                     A Full Stack developer from Baku
+                                                 A Full Stack developer from Baku
 
 
 - 🔭 I’m currently working on Yelo Bank
