@@ -2,7 +2,6 @@
 
 A Full Stack developer from Baku
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Yelo Bank
 - 🌱 I’m currently learning Django, React, Java
