@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Yelo Bank
-- 🌱 I’m currently learning Django, React, Java
+- 🌱 I’m currently learning Django, Java, Spring
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
