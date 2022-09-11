@@ -37,7 +37,7 @@
     />
   </a>
   
-    <a href="https://www.w3schools.com/css/" rel="nofollow">
+  <a href="https://www.w3schools.com/js/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       alt="Javascript"
@@ -46,14 +46,6 @@
     />
   </a>
 
-  <a href="https://www.w3schools.com/css/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="HTML 5"
-      height="40"
-      style="vertical-align: top; margin: 4px"
-    />
-  </a>
   
   <a href="https://www.python.org" rel="nofollow">
     <img
@@ -67,7 +59,7 @@
   
   <a href="https://www.djangoproject.com/" rel="nofollow">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"
       alt="django"
       width="40"
       height="40"
