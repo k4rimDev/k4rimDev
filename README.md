@@ -16,7 +16,7 @@
 ## 🧰 Languages and Tools:
 
 
-<p align="left" dir="auto">
+<p align="center" dir="auto">
     <a href="https://www.w3.org/html/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
