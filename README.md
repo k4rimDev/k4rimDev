@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Tenter App, KhanButaGroup
-- 🌱 I’m currently learning Django, FastAPI, MongoDB, Beanie
+- 🌱 I’m currently learning FastAPI, MongoDB, Beanie, Kubernetes
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
