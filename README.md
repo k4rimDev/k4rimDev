@@ -3,7 +3,7 @@
                                                A Full Stack developer from Baku
 
 
-- 🔭 I’m currently working on Tenter App, KhanButaGroup
+- 🔭 I’m currently working on Tenter App, KhanButaGroup, Tech Academy
 - 🌱 I’m currently learning FastAPI, MongoDB, Beanie, Kubernetes
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
