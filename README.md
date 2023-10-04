@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karim Mirzaguliyev</h1>
 <h3 align="center">Python Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k4rimdev&label=Profile%20views&color=0e75b6&style=flat" alt="k4rimdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k4rimDev&label=Profile%20views&color=0e75b6&style=flat" alt="k4rimDev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k4rimdev&theme=" alt="k4rimdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k4rimDev&theme=" alt="k4rimDev" /></a> </p>
 
 - 🔭 I’m currently working on [AutoBase](Private Repo)
 - 💬 Ask me about **Python, Django and FastAPI**
 - 📫 How to reach me **karimmirzaguliyev@gmail.com**
 - ⚡ Fun fact **I think i can write code**
 
-<div> <a href="https://github.com/k4rimdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/k4rimDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:karimmirzaguliyev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,18 +37,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4rimdev&layout=compact&theme=dark" alt=k4rimdev />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4rimDev&layout=compact&theme=dark" alt=k4rimDev />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=k4rimdev&show_icons=true&locale=en&theme=" alt="k4rimdev" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=k4rimDev&show_icons=true&locale=en&theme=" alt="k4rimDev" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k4rimdev&theme=dark" alt="k4rimdev" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k4rimDev&theme=dark" alt="k4rimDev" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/k4rimdev">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4rimdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k4rimdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4rimdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4rimdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4rimdev&theme=2077" height="180em" />
+<a href="https://github.com/k4rimDev">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4rimDev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k4rimDev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4rimDev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4rimDev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4rimDev&theme=2077" height="180em" />
 </div>
