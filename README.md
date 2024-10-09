@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Mirzaguliyev</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Software Engineer (Python) | AI-enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4rimDev&label=Profile%20views&color=0e75b6&style=flat" alt="k4rimDev" /> </p>
 
 - 🔭 I’m currently working on [AutoBase](Private Repo)
